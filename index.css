@@ -82,3 +82,6 @@ footer{
     color:white;
     padding-top:3vh;
 }
+.auto{
+    text-transform: uppercase;
+}
