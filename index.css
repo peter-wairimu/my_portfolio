@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(3, 37, 37);
+}
+.nav{
+    color:white;
+}
+.rounded-circle{
+    width:20vw;
+    height:20vw;
+}
