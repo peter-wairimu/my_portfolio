@@ -63,3 +63,12 @@ h4{
     color:white;
     font-size: 2rem;
 }
+.icon-fb{
+    width: 3vw;
+    height: 3vw;
+    border-radius: 10vw;
+}
+.icon-twitter{
+    width:2.5vw;
+    height:2.5vw;
+}
