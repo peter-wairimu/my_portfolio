@@ -1,4 +1,5 @@
 My Portfolio, 10/07/2021
+
  By Peter Chege Wairimu.
  
  Description
@@ -15,8 +16,11 @@ My Portfolio, 10/07/2021
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
 (1).HTML,to structure the web page.
+
 (2).Css, to style the html page.
+
 (3).Bootstrap,a css fame work to style the page.
+
 ## Support and contact details
 Incase of any queries or any clarification you can contact me via email or phone.
 email. chegewairimu66@gmail.com
