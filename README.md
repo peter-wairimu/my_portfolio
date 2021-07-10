@@ -1,8 +1,9 @@
-My Portfolio
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
-## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+My Portfolio, 10/07/2021
+ By Peter Chege Wairimu.
+ 
+ Description
+ These is a landing page basically about me,my quallifications what i do,my passion ,my hoobies,where i am currently.
+
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
@@ -13,10 +14,18 @@ My Portfolio
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+(1).HTML,to structure the web page.
+(2).Css, to style the html page.
+(3).Bootstrap,a css fame work to style the page.
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
-### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Incase of any queries or any clarification you can contact me via email or phone.
+email. chegewairimu66@gmail.com
+phone. 0707569387
+
+License
+permission is hereby granted ,free of charge to anyone obtaining a copy of these software and associated documentation to deal in the software without restrictions including without limitation the rights to use ,copy modify ,publish and distribute copies of these software and to permit persons to whom the software is furnished to do so,subject to the following conditions:
+
+The above copyright notice should be included.
+
+Copyright (c) 2021
   
